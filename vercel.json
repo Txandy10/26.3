@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/get-app-file",
+      "destination": "https://release-assets.githubusercontent.com/Txandy10/eglerkraft/releases/download/indere/NB2HI4DTHIXS6Y3ENYXGKYLHNRSXEY3SMFTHILTOMV2C633CNJSWG5DTF5SGYLZSGYXDEL3FMFTWYZLSMNZGCZTUFUZDMLRSFV5GK5LTFVZWW2LOOMXGQ5DNNQ"
+    }
+  ]
+}
